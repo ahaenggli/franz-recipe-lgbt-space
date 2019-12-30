@@ -1,0 +1,11 @@
+<svg width="350" height="350" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>background</title>
+  <rect fill="#152c42" id="canvas_background" height="350" width="350" y="0" x="0"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <ellipse ry="115" rx="115" id="svg_1" cy="175" cx="175" stroke-width="20" stroke="#fff" fill="#152c42"/>
+  <ellipse transform="rotate(-45, 250, 250)" ry="60" rx="1" id="svg_5" cy="250" cx="250" stroke-width="20" stroke="#fff" fill="none"/>
+ </g>
+</svg>

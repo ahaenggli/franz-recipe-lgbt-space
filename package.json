@@ -1,0 +1,15 @@
+{
+  "id": "lgbt-space",
+  "name": "LGBT-Space",
+  "version": "0.1.0",
+  "description": "Get notifications from lgbt-space.ch",
+  "main": "index.js",
+  "author": "Adriano Hänggli",
+  "license": "MIT",
+  "repository": "https://github.com/ahaenggli/franz-recipe-lgbt-space",
+  "config": {
+    "serviceURL": "https://www.lgbt-space.ch/Activity",
+    "hasDirectMessages": true,
+    "hasNotificationSound": false
+    }
+}
